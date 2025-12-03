@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #1 - The Silent Witness",
+  "description": "The Silent Witness - A glowing capsule that grants the power of absolute observation to those who dare to remain silent. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-1.gif",
+  "background_color": "2a1b4a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Obsidian Shadow"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Still Water"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "State",
+      "value": "Watchful"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Silent Witness"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Charcoal grey silk tunic with hidden pockets"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Silver-bound journal with empty pages"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Felt-soled slippers"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Circular library with floating candles"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Truth reveals itself only to those who do not speak."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must not speak from dusk till dawn. Record everything you observe with charcoal sticks. Your silence holds more power than any spell."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Council of Shadows"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "1 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Complete silence for one hour prior"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "iQmRnP85RtqXx6P8dqZyBQxN6dxp7AgaLGYsbxEDWBRZuof",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x43Ef2Cd47716f7f833B2f90875C594530133e0eB",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "A mysterious and cinematic fashion editorial photo of 'The Silent Witness' from the Light Pill Project. An androgynous figure stands watchful in a charcoal grey silk tunic, holding a silver-bound journal, in a circular ancient library with floating candles. Obsidian Shadow aura with Still Water energy, cinematic lighting emphasizing shadows and observation, dark academic atmosphere, photorealistic, 8K, detailed."
+  }
+}

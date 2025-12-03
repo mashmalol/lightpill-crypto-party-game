@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #5 - The Shadow Dancer",
+  "description": "The Shadow Dancer - A glowing capsule that teaches the language of darkness and movement to those who dare to embrace the void. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-5.gif",
+  "background_color": "1a1a1a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Void Black"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Flowing Shadow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "State",
+      "value": "Moving"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Shadow Dancer"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Black silk that absorbs light and moves like liquid"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Smoke-filled crystal orb"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Shadow-wrapped feet that leave no prints"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Moonlit stone courtyard with moving shadows"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "The most beautiful dances happen where light cannot see."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must dance without casting a shadow for three hours. Your movements will weave new darkness into being. When the moon reaches its peak, your shadow will dance without you."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Midnight Ball"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "5 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken during a moonless night"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-5.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Dynamic fashion editorial of The Shadow Dancer in a moonlit stone courtyard, wearing black silk that flows like liquid shadow, holding a smoke-filled crystal orb. Void Black aura with Flowing Shadow energy, feet wrapped in moving darkness, capturing the moment of a dance where the figure casts no shadow, cinematic moonlight creating dramatic contrasts, 8K, hyperdetailed with motion blur and shadow manipulation."
+  }
+}

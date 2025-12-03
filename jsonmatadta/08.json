@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #8 - The Time Weaver",
+  "description": "The Time Weaver - A glowing capsule that reveals the threads of chronology and temporal patterns to those who dare to step outside the moment. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-8.gif",
+  "background_color": "2a1a3a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Chronos Gold"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Spiral Flow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "State",
+      "value": "Weaving"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Time Weaver"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Bronze-scaled robe that shifts like overlapping clockwork"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Hourglass that flows in both directions simultaneously"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Gilded sandals that leave fading footprints"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Floating clockwork mechanisms in a timeless void"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Time"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Yesterday and tomorrow are just different rooms in the same infinite palace."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must weave three temporal threads - one from a moment you wish to relive, one from a moment you fear, and one from a moment that never was. Tie them together and watch what timeline emerges."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Chronos Council"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "8 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken at the stroke of midnight"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-8.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Surreal fashion editorial of The Time Weaver floating in a timeless void with intricate clockwork mechanisms, wearing a bronze-scaled robe that moves like overlapping gears, holding an hourglass where sand flows both up and down simultaneously. Chronos Gold aura with Spiral Flow energy, gilded sandals leaving temporal echoes, cinematic lighting that shows multiple moments happening at once, 8K, hyperdetailed with visible time streams and clockwork intricacies."
+  }
+}

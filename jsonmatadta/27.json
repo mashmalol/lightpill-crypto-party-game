@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #27 - The Question Asker",
+  "description": "The Question Asker - A glowing capsule that reveals the power of inquiry and teaches the art of uncovering deeper truths through purposeful questioning. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-27.gif",
+  "background_color": "4a6a8a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Inquisitive Blue"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Curious Pulse"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "State",
+      "value": "Inquiring"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Question Asker"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Deep blue scholar's robes with question mark patterns in silver thread"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Quill that writes questions that answer themselves"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Leather boots that seek new paths of inquiry"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Library of unasked questions with floating scrolls of inquiry"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Curiosity"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "The right question is more powerful than all the answers in the world, for it opens doors that facts can only describe."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must ask three questions that have no easy answers - one that challenges your deepest belief, one that reveals what you truly fear, and one that points toward your unrealized potential. The silence after each question will teach you more than any answer could."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Inquiry Council"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "27 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken while contemplating a meaningful question"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-27.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Intellectual fashion editorial of The Question Asker in a library of unasked questions with floating scrolls, wearing deep blue scholar's robes with silver question mark patterns, writing with a quill that creates glowing questions in the air. Inquisitive Blue aura with Curious Pulse energy, leather boots standing at a crossroads of inquiry, cinematic lighting that highlights the space between question and answer, 8K, hyperdetailed with visible thought patterns and floating queries."
+  }
+}

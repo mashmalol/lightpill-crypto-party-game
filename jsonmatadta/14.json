@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #14 - The Memory Keeper",
+  "description": "The Memory Keeper - A glowing capsule that reveals the architecture of remembrance and teaches how to preserve what time would erase. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-14.gif",
+  "background_color": "7a5a8a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Nostalgia Amber"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Gentle Resonance"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "State",
+      "value": "Preserving"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Memory Keeper"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Sepia-toned silk with embroidered timelines and forgotten moments"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Crystal bottle that captures and stores significant memories"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Velvet slippers that walk softly through time"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Library of forgotten moments with floating memory orbs"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Memory"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "The most precious treasures are not gold, but moments preserved against the erosion of time."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must capture three memories in your crystal bottle - one that brings joy, one that taught you wisdom, and one you wish to preserve for future generations. Then you must release one painful memory to the winds of forgetting."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Archive of Echoes"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "14 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken while holding a cherished object"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-14.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Nostalgic fashion editorial of The Memory Keeper in a library of forgotten moments with floating memory orbs, wearing sepia-toned silk with embroidered timelines, holding a crystal bottle that glows with captured memories. Nostalgia Amber aura with Gentle Resonance energy, velvet slippers, cinematic lighting that shows memories as visible scenes within the orbs, 8K, hyperdetailed with visible timelines and preserved moments floating in the air."
+  }
+}

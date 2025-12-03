@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #17 - The Wind Dancer",
+  "description": "The Wind Dancer - A glowing capsule that reveals the patterns of air and teaches the art of moving with invisible currents. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-17.gif",
+  "background_color": "4a7a8a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Zephyr Blue"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Swirling Currents"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "State",
+      "value": "Dancing"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Wind Dancer"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Flowing sky-blue silks that billow with unseen breezes"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Crystal chimes that ring with the voices of different winds"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Bare feet that barely touch the ground"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Cloud palace with floating platforms and visible air currents"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Air"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "The wind carries every secret ever whispered, and dances with every soul that learns to listen."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must dance with three winds - the gentle breeze that carries comfort, the storm wind that brings change, and the still air between breaths that holds ancient wisdom. Each dance will teach you a different way to move through life."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Zephyr Gathering"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "17 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken in an open space with moving air"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-17.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Ethereal fashion editorial of The Wind Dancer in a cloud palace with floating platforms, wearing flowing sky-blue silks that billow with invisible breezes, holding crystal chimes that ring with wind voices. Zephyr Blue aura with Swirling Currents energy, bare feet floating slightly above cloud surfaces, cinematic lighting that shows visible air currents and swirling patterns, 8K, hyperdetailed with visible wind streams and cloud textures."
+  }
+}

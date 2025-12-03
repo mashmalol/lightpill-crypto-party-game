@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #15 - The River Singer",
+  "description": "The River Singer - A glowing capsule that reveals the songs of flowing waters and teaches the language of currents and change. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-15.gif",
+  "background_color": "1a4a6a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Aqua Flow"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Continuous Current"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "State",
+      "value": "Flowing"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The River Singer"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Flowing blue-green silks that move like water currents"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Conch shell that sings with the voice of ancient oceans"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Bare feet that walk on water surfaces"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Underground river cavern with bioluminescent waterfalls"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Rivers remember every story that has ever flowed through them, and they sing them to those who listen."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must learn and sing three water songs - one for what was, one for what is, and one for what will be. The river will answer each verse with its own melody, revealing secrets in the harmony."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Current Council"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "15 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken near flowing water"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-15.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Ethereal fashion editorial of The River Singer in an underground river cavern with bioluminescent waterfalls, wearing flowing blue-green silks that move like water currents, holding a conch shell to their ear. Aqua Flow aura with Continuous Current energy, bare feet walking on the water's surface, cinematic lighting that captures the dance of light on moving water, 8K, hyperdetailed with visible current patterns and glowing aquatic life."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #2 - The Dream Weaver",
+  "description": "The Dream Weaver - A glowing capsule that reveals the fabric of dreams to those who dare to sleep with open eyes. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-2.gif",
+  "background_color": "4a1b4a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Twilight Mist"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Flowing Silk"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "State",
+      "value": "Lucid"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Dream Weaver"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Silver-threaded robe that shifts in the light"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Crystal spindle that spins light into thread"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Floating barefoot above ground"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Floating islands in a star-filled void"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Dream"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Reality is just a dream we all agree to have."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must weave three threads from moonlight and whisper a forgotten memory into each knot. The pattern you create will become someone's dream tonight."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Lucid Assembly"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "2 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken at midnight"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-2.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Ethereal fashion editorial of The Dream Weaver floating in a star-filled void, wearing a silver-threaded robe that shifts and flows, holding a crystal spindle that spins light into glowing threads. Twilight Mist aura with Flowing Silk energy, floating islands in the background, dreamlike atmosphere, cinematic lighting that makes everything appear both solid and translucent, 8K, hyperdetailed."
+  }
+}
