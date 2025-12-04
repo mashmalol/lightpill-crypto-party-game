@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #26 - The Paradox Holder",
+  "description": "The Paradox Holder - A glowing capsule that reveals the unity of opposites and teaches the art of embracing contradictory truths. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-26.gif",
+  "background_color": "2a2a4a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Dual Spectrum"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Balanced Opposition"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "State",
+      "value": "Containing"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Paradox Holder"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Split robe - one side light, one side dark, meeting in perfect balance"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Möbius strip that endlessly connects opposites"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Sandals that stand in two places at once"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Chamber where up is down and time flows backward and forward simultaneously"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Paradox"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "The truth is not found in choosing between opposites, but in holding both as equally real."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must hold three impossible truths simultaneously - that you are both powerful and vulnerable, that you are forever changing and eternally constant, that you are completely unique and exactly like everyone else. The tension between them will reveal a deeper reality."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Assembly of Contradictions"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "26 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken while contemplating two opposing ideas"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-26.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Philosophical fashion editorial of The Paradox Holder in a chamber where spatial and temporal rules are inverted, wearing a split robe of light and dark meeting in perfect balance, holding a glowing Möbius strip. Dual Spectrum aura with Balanced Opposition energy, sandals appearing in multiple positions, cinematic lighting that shows both sides of every surface simultaneously, 8K, hyperdetailed with visible paradoxical geometries and impossible perspectives."
+  }
+}

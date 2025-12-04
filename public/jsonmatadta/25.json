@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #25 - The Harmony Weaver",
+  "description": "The Harmony Weaver - A glowing capsule that reveals the music of existence and teaches the art of balancing discord into beautiful resonance. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-25.gif",
+  "background_color": "6a4a8a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Resonant Violet"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Balanced Vibration"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "State",
+      "value": "Harmonizing"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Harmony Weaver"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Violet silk with woven soundwave patterns that shimmer when near harmony"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Tuning fork that vibrates with universal frequencies"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Soft slippers that walk in rhythm with cosmic pulses"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Spherical chamber where sound becomes visible light patterns"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Resonance"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Discord is simply harmony waiting to find its proper place in the grand composition."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must find harmony in three dissonant situations - conflicting voices, opposing forces, and inner turmoil. Use your tuning fork to find the fundamental frequency that brings them into alignment."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Resonance Chamber"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "25 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken while listening to multiple sounds simultaneously"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-25.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Harmonious fashion editorial of The Harmony Weaver in a spherical chamber where sound becomes visible light patterns, wearing violet silk with woven soundwave patterns, holding a tuning fork that creates visible resonance waves. Resonant Violet aura with Balanced Vibration energy, soft slippers moving to cosmic rhythms, cinematic lighting that shows sound waves transforming into light, 8K, hyperdetailed with visible frequency patterns and harmonic geometries."
+  }
+}

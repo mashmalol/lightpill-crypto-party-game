@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #16 - The Shadow Weaver",
+  "description": "The Shadow Weaver - A glowing capsule that reveals the substance of darkness and teaches how to shape what light cannot touch. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-16.gif",
+  "background_color": "0a0a1a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Void Silk"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Whispering Dark"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "State",
+      "value": "Shaping"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Shadow Weaver"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Black velvet that absorbs all light, with silver thread tracing shadow patterns"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Needles made of solidified darkness that sew with shadow threads"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Silent slippers that merge with any surface"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Chamber of shifting shadows and impossible geometry"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "What you hide in shadow grows stronger. What you embrace in darkness becomes your power."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must weave three shadows into being - one from your deepest fear, one from your secret desire, and one from the person you pretend to be. Then stitch them together to create what you truly are."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Loom of Night"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "16 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken in complete darkness"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-16.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Mysterious fashion editorial of The Shadow Weaver in a chamber of shifting shadows and impossible geometry, wearing black velvet that absorbs light with silver thread tracing shadow patterns, using needles of solidified darkness to sew with shadow threads. Void Silk aura with Whispering Dark energy, silent slippers merging with surfaces, cinematic lighting that defines shapes through absence of light, 8K, hyperdetailed with visible shadow substance being woven into tangible forms."
+  }
+}

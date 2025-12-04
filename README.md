@@ -47,12 +47,48 @@ The Light Pill Project is a limited edition collection of 29 animated NFTs, each
 - **Price**: 0.024 ETH per Light Pill
 - **Category**: Experience Token
 
+## React Gallery App
+
+A dark, gothic, minimal gallery showcasing all 29 Light Pills built with React, Vite, TypeScript, and shadcn UI.
+
+### Quick Start
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Start the development server:
+```bash
+npm run dev
+```
+
+3. Build for production:
+```bash
+npm run build
+```
+
+The gallery features:
+- Elegant dark theme with gothic minimal aesthetic
+- Responsive grid layout showcasing all 29 Light Pills
+- Interactive modal views with detailed metadata
+- Smooth animations and hover effects
+- Built with modern React and shadcn UI components
+
 ## Project Structure
 
 ```
 lightpill crypto party game/
 ├── gifslightpillbatch1/     # Animated GIF assets (1-29)
-└── jsonmatadta/             # Metadata JSON files (01-29)
+├── jsonmatadta/             # Metadata JSON files (01-29)
+├── public/                  # Static assets for React app
+│   ├── gifslightpillbatch1/ # GIFs served by Vite
+│   └── jsonmatadta/         # Metadata JSON files
+├── src/                     # React application source
+│   ├── components/          # React components
+│   ├── hooks/              # Custom React hooks
+│   └── types/              # TypeScript type definitions
+└── package.json            # Node.js dependencies
 ```
 
 ## Features

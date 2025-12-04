@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #4 - The Echo Keeper",
+  "description": "The Echo Keeper - A glowing capsule that captures forgotten sounds and gives voice to silent memories. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-4.gif",
+  "background_color": "3a2b1a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Bronze Resonance"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Reverberating"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "State",
+      "value": "Listening"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Echo Keeper"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Copper-woven tunic with bell-lined hem"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Ancient brass listening horn"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Soft leather moccasins"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Underground cavern with singing crystals"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Sound"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Every sound ever made still exists somewhere, waiting to be heard again."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must capture three distinct echoes in your listening horn - laughter from yesterday, a secret from last week, and a promise from long ago. Then release them in reverse order."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Chamber of Echoes"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "4 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken in a place with natural acoustics"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-4.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Mystical fashion editorial of The Echo Keeper in an underground cavern with glowing singing crystals, wearing a copper-woven tunic with tiny bells along the hem, holding an ancient brass listening horn to their ear. Bronze Resonance aura with Reverberating energy, soft leather moccasins, cinematic lighting that captures sound waves as visible ripples in the air, 8K, hyperdetailed with crystalline reflections and acoustic energy patterns."
+  }
+}

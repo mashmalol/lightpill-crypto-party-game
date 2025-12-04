@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #20 - The Void Walker",
+  "description": "The Void Walker - A glowing capsule that reveals the spaces between existence and teaches the art of moving through absolute nothingness. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-20.gif",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Absolute Black"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Still Void"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "State",
+      "value": "Existing"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Void Walker"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Black silk that absorbs all light, making the wearer appear as a silhouette of nothingness"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Compass that points to places that don't exist"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Feet that float above non-existent ground"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Infinite void with scattered points of potential existence"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "In the absence of everything, you discover what you truly are when stripped of all context."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must walk through three layers of nothingness - the void of memory, the void of identity, and the void of possibility. In each, you must leave behind a piece of what you thought was essential."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Council of Nothingness"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "20 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken in complete sensory deprivation"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-20.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Profound fashion editorial of The Void Walker in an infinite void with scattered points of potential existence, wearing black silk that absorbs all light creating a silhouette of nothingness, holding a compass that points to non-existent places. Absolute Black aura with Still Void energy, feet floating above non-ground, cinematic lighting that defines form through absence and potential, 8K, hyperdetailed with visible nothingness and emerging possibilities."
+  }
+}

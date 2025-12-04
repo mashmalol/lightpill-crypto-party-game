@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #12 - The Flame Keeper",
+  "description": "The Flame Keeper - A glowing capsule that reveals the language of transformation and the secrets carried in every spark. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-12.gif",
+  "background_color": "8b1a1a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Crimson Ember"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Controlled Burn"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "State",
+      "value": "Transforming"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Flame Keeper"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Ash-gray leather armor with glowing ember patterns"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Ever-burning torch that consumes nothing"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Charred boots that leave smoking footprints"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Forgotten forge with floating anvils and liquid fire rivers"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "What the fire takes, it returns as something new. What you fear to burn is what you need to release."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must carry the eternal flame through three chambers - one of memory, one of present truth, and one of potential. What burns away in each chamber cannot follow you further."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Forge of Transformation"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "12 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken near an open flame"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-12.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Dramatic fashion editorial of The Flame Keeper in a forgotten forge with floating anvils and rivers of liquid fire, wearing ash-gray leather armor with glowing ember patterns, holding an ever-burning torch. Crimson Ember aura with Controlled Burn energy, charred boots leaving smoking footprints, cinematic lighting that captures the dance of flames and shadows, 8K, hyperdetailed with visible heat distortion and ember particles floating in the air."
+  }
+}

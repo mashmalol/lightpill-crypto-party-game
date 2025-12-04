@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #23 - The Pattern Seeker",
+  "description": "The Pattern Seeker - A glowing capsule that reveals the hidden order within chaos and teaches the art of finding meaning in complexity. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-23.gif",
+  "background_color": "3a2a5a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Fractal White"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Recursive Flow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "State",
+      "value": "Discovering"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Pattern Seeker"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "White robes with ever-changing geometric patterns that shift with perspective"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Prism glasses that reveal hidden patterns in reality"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Geometric sandals that align with sacred geometry"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Library of infinite patterns with floating mathematical forms"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Pattern"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Chaos is simply patterns we haven't learned to recognize yet. Order is everywhere for those with eyes to see."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must find three hidden patterns - one in nature's randomness, one in human behavior, and one in your own thoughts. Each pattern discovered will reveal a truth about the structure of reality."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Assembly of Forms"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "23 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken while observing complex systems"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-23.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Geometric fashion editorial of The Pattern Seeker in a library of infinite patterns with floating mathematical forms, wearing white robes with shifting geometric patterns, looking through prism glasses that reveal hidden structures. Fractal White aura with Recursive Flow energy, geometric sandals aligning with sacred geometry, cinematic lighting that highlights the emergence of patterns from chaos, 8K, hyperdetailed with visible fractal patterns and mathematical elegance emerging from complexity."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #9 - The Bone Reader",
+  "description": "The Bone Reader - A glowing capsule that reveals ancestral memories and bone-deep truths to those who dare to listen to their skeleton's song. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-9.gif",
+  "background_color": "f5f0eb",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Ivory Glow"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Ancestral Hum"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "State",
+      "value": "Listening"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Bone Reader"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "White linen wrap that reveals skeletal contours"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Carved bone dice that roll with ancestral intent"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Bare feet that feel the vibration of ancient ground"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Circular chamber of polished stone with fossil walls"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Bone"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Your bones remember what your mind has forgotten."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must cast the bone dice three times - once for your ancestors, once for your descendants, and once for the path you walk between them. Read the patterns they make on the stone."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Ancestral Council"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "9 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken while touching bare stone"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-9.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Ethereal fashion editorial of The Bone Reader in a circular chamber with fossil-covered walls, wearing white linen wraps that subtly reveal skeletal contours beneath the skin, casting carved bone dice on polished stone. Ivory Glow aura with Ancestral Hum energy, bare feet connecting with ancient ground, cinematic lighting that creates soft shadows revealing bone structure, 8K, hyperdetailed with visible ancestral patterns in the stone and bone textures."
+  }
+}

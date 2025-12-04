@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #13 - The Fate Spinner",
+  "description": "The Fate Spinner - A glowing capsule that reveals the threads of destiny and teaches the art of weaving possible futures. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-13.gif",
+  "background_color": "4a2a6a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Silver Thread"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Weaving Motion"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "State",
+      "value": "Creating"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Fate Spinner"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Patterned silk that shows interconnected threads of light"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Loom that weaves with strands of potential futures"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Silk slippers that never touch the ground"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Celestial workshop where constellations are woven"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Destiny"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Every choice you make unravels one future while weaving another into being."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must weave three threads on the celestial loom - one of what might be, one of what should be, and one of what must never be. The pattern that emerges will show you the consequences of tomorrow's choices."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Weavers' Convocation"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "13 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken at a crossroads or decision point"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-13.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Celestial fashion editorial of The Fate Spinner in a workshop where constellations are woven, wearing patterned silk that glows with interconnected threads of light, working at a loom that weaves with strands of potential futures. Silver Thread aura with Weaving Motion energy, silk slippers floating above ground, cinematic lighting that shows the intricate patterns of fate being created, 8K, hyperdetailed with visible destiny threads and cosmic weaving patterns."
+  }
+}

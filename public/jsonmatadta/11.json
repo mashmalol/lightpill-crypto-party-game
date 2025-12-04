@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #11 - The Stone Speaker",
+  "description": "The Stone Speaker - A glowing capsule that reveals the ancient language of mountains and stones to those who dare to listen to earth's slow wisdom. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-11.gif",
+  "background_color": "3a2a1a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Granite Pulse"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Slow Resonance"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "State",
+      "value": "Listening"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Stone Speaker"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Stone-gray wool robes with crystal formations growing at the hem"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Geode that opens to reveal glowing crystal patterns"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Bare feet fused with the mountain stone"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "High mountain peak with floating stone monoliths"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Mountains speak in a language of millennia, and their patience is absolute."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must listen to three stones - one from the mountain's peak, one from the river's bed, and one from a place of ancient worship. Each will tell you a secret that has never been spoken aloud."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Stone Council"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "11 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken while touching natural stone"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-11.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Ancient fashion editorial of The Stone Speaker on a high mountain peak with floating stone monoliths, wearing stone-gray wool robes with growing crystal formations, holding an open geode that reveals glowing crystal patterns. Granite Pulse aura with Slow Resonance energy, bare feet appearing fused with the mountain stone, cinematic lighting that shows the slow movement of geological time, 8K, hyperdetailed with visible mineral formations and ancient stone textures."
+  }
+}

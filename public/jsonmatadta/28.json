@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #28 - The Moment Holder",
+  "description": "The Moment Holder - A glowing capsule that reveals the eternal present and teaches the art of preserving perfect instants outside the flow of time. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-28.gif",
+  "background_color": "8a6a4a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Amber Stasis"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Perfect Stillness"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "State",
+      "value": "Preserving"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Moment Holder"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Golden amber robes that capture and reflect frozen light"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Crystal sphere that contains perfect moments in stasis"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Sandals that stand outside the river of time"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Gallery of frozen moments and suspended instants"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Eternity"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Some moments are so perfect they deserve to exist forever, untouched by the erosion of memory or the distortion of time."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must capture three perfect moments in your crystal sphere - one of pure joy, one of profound peace, and one of complete understanding. These will become eternal sanctuaries you can return to whenever needed."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Sanctuary of Stillness"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "28 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken during a moment of perfect awareness"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-28.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Timeless fashion editorial of The Moment Holder in a gallery of frozen moments, wearing golden amber robes that capture frozen light, holding a crystal sphere containing perfect moments in stasis. Amber Stasis aura with Perfect Stillness energy, sandals standing outside time's flow, cinematic lighting that captures the quality of eternal presence, 8K, hyperdetailed with visible suspended moments and timeless atmosphere."
+  }
+}

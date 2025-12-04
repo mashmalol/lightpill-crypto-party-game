@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #18 - The Crystal Seer",
+  "description": "The Crystal Seer - A glowing capsule that reveals hidden truths through crystalline visions and teaches the art of seeing beyond surface reality. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-18.gif",
+  "background_color": "2a1a4a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Prismatic Light"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Focused Beam"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "State",
+      "value": "Seeing"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Crystal Seer"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Clear quartz-embedded robes that refract light into rainbows"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Geometric crystal lens that reveals hidden patterns"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Transparent slippers that seem to walk on light"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Geometric crystal chamber with floating prismatic structures"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Truth is not singular - it has as many facets as the largest crystal, and each perspective reveals something new."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must look through the crystal lens at three different angles - one that shows what is, one that reveals what could be, and one that exposes what is being hidden. The refracted truths will show you the complete picture."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Prism Council"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "18 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken while holding a clear crystal or quartz"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-18.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Luminous fashion editorial of The Crystal Seer in a geometric crystal chamber with floating prismatic structures, wearing clear quartz-embedded robes that refract light into rainbows, peering through a geometric crystal lens. Prismatic Light aura with Focused Beam energy, transparent slippers walking on beams of light, cinematic lighting that creates rainbow refractions and crystal caustics, 8K, hyperdetailed with visible light spectrums and crystalline geometries."
+  }
+}

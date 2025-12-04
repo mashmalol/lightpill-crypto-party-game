@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #10 - The Veil Dancer",
+  "description": "The Veil Dancer - A glowing capsule that reveals the thin spaces between worlds and teaches the art of moving between realities. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-10.gif",
+  "background_color": "6a1b9a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Lilac Mist"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Shimmering"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "State",
+      "value": "Between"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Veil Dancer"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Translucent silk veils in seven layered colors"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Silver mask that shows both faces simultaneously"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Smoke-wrapped ankles that fade in and out"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Liminal space where multiple realities overlap"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Liminal"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "Every door you close opens three others in worlds you cannot see."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must dance in the spaces between heartbeats, stepping through seven veils of reality. Each veil requires you to leave behind a different attachment. The seventh step will show you what exists beyond perception."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Liminal Assembly"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "10 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken in a doorway between two rooms"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-10.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Surreal fashion editorial of The Veil Dancer in a liminal space where multiple realities overlap, wearing seven layered translucent silk veils in rainbow colors, with a silver mask showing two faces at once. Lilac Mist aura with Shimmering energy, smoke-wrapped ankles fading between realities, cinematic lighting that shows glimpses of different worlds through the veils, 8K, hyperdetailed with visible reality distortions and ethereal fabric movement."
+  }
+}

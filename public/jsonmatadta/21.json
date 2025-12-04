@@ -1,0 +1,88 @@
+{
+  "name": "Light Pill #21 - The Bridge Builder",
+  "description": "The Bridge Builder - A glowing capsule that reveals the connections between all things and teaches the art of spanning impossible divides. Part of the Light Pill Project: surreal, mystical experiences for those who embrace the unknown.",
+  "image": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-21.gif",
+  "background_color": "5a3a2a",
+  "attributes": [
+    {
+      "trait_type": "Pill Aura",
+      "value": "Golden Connection"
+    },
+    {
+      "trait_type": "Energy Level", 
+      "value": "Steady Span"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "State",
+      "value": "Connecting"
+    },
+    {
+      "trait_type": "Role",
+      "value": "The Bridge Builder"
+    },
+    {
+      "trait_type": "Recommended Clothing",
+      "value": "Architectural robes with woven bridge patterns and golden threads"
+    },
+    {
+      "trait_type": "Occult Accessory", 
+      "value": "Compass that points to what needs connecting"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Stone sandals that anchor to any surface"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Canyon of floating islands with incomplete arches"
+    },
+    {
+      "trait_type": "Elemental Alignment",
+      "value": "Connection"
+    },
+    {
+      "trait_type": "Whispered Message",
+      "value": "The space between two points is not empty - it's filled with potential for connection."
+    },
+    {
+      "trait_type": "Ritual Instruction",
+      "value": "You must build three bridges - one to mend what was broken, one to reach what seems impossible, and one to connect with someone you've misunderstood. Each bridge requires a piece of your own understanding as its keystone."
+    },
+    {
+      "trait_type": "Experience Tier",
+      "value": "Assembly of Arches"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": "21 of 29"
+    },
+    {
+      "trait_type": "Activation Requirement",
+      "value": "Must be taken while standing between two separate spaces"
+    },
+    {
+      "trait_type": "Price",
+      "value": "0.024 ETH"
+    }
+  ],
+  "properties": {
+    "category": "Experience Token",
+    "files": [
+      {
+        "uri": "ipfs://QmX6z8L9TKL9EjVh4zL8B7M3S2T1P5R2N4/light-pill-21.gif",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "0x7e4a7b5a1d1c1e1f1a1b1c1d1e1f1a1b1c1d1e1f",
+        "share": 100
+      }
+    ],
+    "ai_prompt": "Architectural fashion editorial of The Bridge Builder in a canyon of floating islands with incomplete arches, wearing robes with woven bridge patterns and golden threads, using a compass that glows toward connection points. Golden Connection aura with Steady Span energy, stone sandals anchoring to floating surfaces, cinematic lighting that highlights the geometry of connection and potential pathways, 8K, hyperdetailed with visible connection energy and architectural precision."
+  }
+}
