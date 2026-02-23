@@ -1,0 +1,12 @@
+node_modules
+.env.local
+.env.*.local
+dist
+.git
+.gitignore
+README.md
+src
+tsconfig.json
+vite.config.ts
+tailwind.config.js
+postcss.config.js

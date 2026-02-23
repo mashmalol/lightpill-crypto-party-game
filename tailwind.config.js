@@ -50,6 +50,7 @@ export default {
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
         serif: ['Crimson Text', 'serif'],
+        potion: ['Cinzel', 'serif'],
       },
     },
   },

@@ -2,8 +2,9 @@ import { useState } from 'react';
 import { Card, CardContent } from './ui/card';
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from './ui/dialog';
 import { LightPill } from '../types';
-import { Eye } from 'lucide-react';
+import { Eye, Edit2 } from 'lucide-react';
 import { Button } from './ui/button';
+import { JsonEditor } from './JsonEditor';
 
 interface LightPillCardProps {
   pill: LightPill;
@@ -11,6 +12,7 @@ interface LightPillCardProps {
 
 export function LightPillCard({ pill }: LightPillCardProps) {
   const [isOpen, setIsOpen] = useState(false);
+  const [isJsonEditorOpen, setIsJsonEditorOpen] = useState(false);
   const [imageLoaded, setImageLoaded] = useState(false);
 
   const metadata = pill.metadata;
@@ -22,7 +24,7 @@ export function LightPillCard({ pill }: LightPillCardProps) {
   return (
     <>
       <Card 
-        className="group relative overflow-hidden border-border/50 bg-card/50 backdrop-blur-sm transition-all duration-300 hover:border-border hover:bg-card/80 hover:shadow-lg hover:shadow-black/20 cursor-pointer"
+        className="group relative overflow-hidden border-2 border-green-500/30 bg-card/50 backdrop-blur-sm transition-all duration-300 hover:border-green-400 hover:bg-card/80 hover:shadow-lg hover:shadow-green-500/30 hover:border-glow cursor-pointer"
         onClick={() => setIsOpen(true)}
       >
         <CardContent className="p-0">
@@ -43,7 +45,7 @@ export function LightPillCard({ pill }: LightPillCardProps) {
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
             <div className="absolute bottom-0 left-0 right-0 p-4 translate-y-full transition-transform duration-300 group-hover:translate-y-0">
-              <h3 className="font-serif text-lg font-semibold text-white mb-1">{name}</h3>
+              <h3 className="font-gothic text-lg font-bold text-white mb-1 group-hover:neon-glow">{name}</h3>
               {role && (
                 <p className="text-xs text-white/80 font-light">{role}</p>
               )}
@@ -60,10 +62,23 @@ export function LightPillCard({ pill }: LightPillCardProps) {
       <Dialog open={isOpen} onOpenChange={setIsOpen}>
         <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto bg-background border-border">
           <DialogHeader>
-            <DialogTitle className="font-serif text-2xl">{name}</DialogTitle>
-            <DialogDescription className="text-muted-foreground">
-              {metadata?.description || 'A mystical Light Pill from the collection'}
-            </DialogDescription>
+            <div className="flex items-center justify-between">
+              <div className="flex-1">
+                <DialogTitle className="font-serif text-2xl">{name}</DialogTitle>
+                <DialogDescription className="text-muted-foreground mt-2">
+                  {metadata?.description || 'A mystical Light Pill from the collection'}
+                </DialogDescription>
+              </div>
+              <Button
+                onClick={() => setIsJsonEditorOpen(true)}
+                variant="outline"
+                size="sm"
+                className="ml-4 border-border hover:bg-foreground/5"
+              >
+                <Edit2 className="h-4 w-4 mr-2" />
+                Edit Metadata
+              </Button>
+            </div>
           </DialogHeader>
           
           <div className="grid md:grid-cols-2 gap-6 mt-4">
@@ -124,6 +139,13 @@ export function LightPillCard({ pill }: LightPillCardProps) {
           </div>
         </DialogContent>
       </Dialog>
+
+      <JsonEditor
+        isOpen={isJsonEditorOpen}
+        onClose={() => setIsJsonEditorOpen(false)}
+        pillId={pill.id}
+        metadata={metadata}
+      />
     </>
   );
 }
